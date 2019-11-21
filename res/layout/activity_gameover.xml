@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearGameOver"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/gameover_background"
+    android:theme="@android:style/Theme.Translucent" >
+
+    <TextView
+        android:id="@+id/tv_result_gameover"
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="290dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="20pt" />
+
+    <TextView
+        android:id="@+id/tv_replay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/gameover_replay" />
+
+    <TextView
+        android:id="@+id/backtomain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="543dp"
+        android:layout_marginTop="262dp"
+        android:background="@drawable/gameover_backtomain"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/highscore"
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:layout_marginLeft="210dp"
+        android:layout_marginTop="240dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="20pt" />
+
+</FrameLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/choice_fly_ani1"
+        android:duration="70"/>
+    <item
+        android:drawable="@drawable/choice_fly_ani2"
+        android:duration="70"/>
+
+</animation-list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpha
+     android:toAlpha="1.0" 
+     android:fromAlpha="0.25" 
+     android:duration="333" 
+     android:repeatCount="2" 
+     xmlns:android="http://schemas.android.com/apk/res/android"/>
