@@ -7,9 +7,11 @@
 </br>
 ## 사용언어
 안드로이드 (java)
+</br>
 
 ## 시연 영상
 https://youtu.be/v6fRLQySEjg
+</br>
 
 ## 스크린샷
 ![1111111111111](https://user-images.githubusercontent.com/50066666/100866512-1bdf4a80-34dc-11eb-8fd3-346a93b726f0.jpg)
@@ -22,6 +24,7 @@ https://youtu.be/v6fRLQySEjg
 
 </br>
 ## 라이센스
+</br>
 
 스팀 The Binding of Isaac의 게임의 도트 이미지를 사용해였다. 
 bindingofisaacrebirth.gamepedia.com 에서 sprite 이미지를 구했다.
