@@ -5,6 +5,7 @@
 인디 게임 The Binding of Isaac을 모바일로 바꾼 프로그램
 
 </br>
+
 ## 사용언어
 안드로이드 (java)
 </br>
@@ -23,6 +24,7 @@ https://youtu.be/v6fRLQySEjg
 ![3](https://user-images.githubusercontent.com/50066666/100866533-24378580-34dc-11eb-9b67-f7dfca138b6e.jpg)
 
 </br>
+
 ## 라이센스
 </br>
 
