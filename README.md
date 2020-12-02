@@ -23,6 +23,7 @@ https://youtu.be/v6fRLQySEjg
 
 </br>
 ## 라이센스
+</br>
 스팀 The Binding of Isaac의 게임의 도트 이미지를 사용해였다. 
 bindingofisaacrebirth.gamepedia.com 에서 sprite 이미지를 구했다.
 라이선스의 조건에 따라 저작자표시, 비영리, 동일조건변경허락, 추가제한금지를 준수한 상태이다.
