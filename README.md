@@ -8,6 +8,8 @@
 
 ## 사용언어
 안드로이드 (java)
+
+메인함수 : https://github.com/ilsong963/isaac/blob/master/src/com/isaac/StartActivity.java
 </br>
 
 ## 시연 영상
